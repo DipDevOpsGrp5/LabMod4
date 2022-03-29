@@ -11,7 +11,7 @@ Backend se encuentra en https://github.com/DipDevOpsGrp5/TrabajoFinalM4SWD.git r
 Front-end se encuentra en https://github.com/DipDevOpsGrp5/TrabajoFinalM4SWD-front.git rama Main.
 
 # Selenium - Driver
-Pruebas de selenium se encuentran en https://github.com/DipDevOpsGrp5/  rama Main.
+Pruebas de selenium se encuentran en https://github.com/DipDevOpsGrp5/TrabajoFinalM4SWD-selenium.git  rama Main.
 
 #JMeter
 Informes de pruebas de JMeter se encuentran en la carpeta COMPLETAR de este repositorio. 
