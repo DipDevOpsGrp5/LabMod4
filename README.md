@@ -18,9 +18,9 @@ Informes de pruebas de JMeter se encuentran en la carpeta informes/ de este repo
 
 # Proyectos Postman, JMeter y Selenium
 La exportación de los proyectos se encuentran en la siguientes rutas:
-- Postman: proyectos/postman/
-- JMeter: proyectos/jmeter/
-- Selenium: proyectos/selenium
+- Postman: proyectos/postman/ (https://github.com/DipDevOpsGrp5/TrabajoFinalM4SWD-postman-integration-tests)
+- JMeter: proyectos/jmeter/ 
+- Selenium: proyectos/selenium  (https://github.com/DipDevOpsGrp5/TrabajoFinalM4SWD-selenium.git )
 
 # Pipeline:
 El Pipeline se encuentra en la carpeta: pipeline/
