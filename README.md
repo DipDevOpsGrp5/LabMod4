@@ -14,7 +14,7 @@ Front-end se encuentra en https://github.com/DipDevOpsGrp5/TrabajoFinalM4SWD-fro
 Pruebas de selenium se encuentran en https://github.com/DipDevOpsGrp5/TrabajoFinalM4SWD-selenium.git  rama Main.
 
 #JMeter
-Informes de pruebas de JMeter se encuentran en la carpeta COMPLETAR de este repositorio. 
+Informes de pruebas de JMeter se encuentran en la carpeta informes/ de este repositorio. 
 
 #Proyectos Postman, JMeter y Selenium
 La exportación de los proyectos se encuentran en la siguientes rutas:
